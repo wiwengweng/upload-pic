@@ -1,2 +1,2 @@
-# upload-pic
-听说github可以托管应用？？
+# camera-app
+Super awesome camera web app built with HTML, CSS, and JS.
